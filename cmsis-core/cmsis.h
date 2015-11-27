@@ -7,7 +7,11 @@
 #ifndef MBED_CMSIS_H
 #define MBED_CMSIS_H
 
-#include "em_device.h"
-#include "cmsis_nvic.h"
+#include <stdint.h>
+extern uint32_t __start_vector_table__;
+
+#include "cmsis-core/em_device.h"
+#include "cmsis-core/cmsis_nvic.h"
+#include "em_mbed.h"
 
 #endif
