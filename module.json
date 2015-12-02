@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-efm32wg",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "CMSIS Core Implementation for EFM32WG",
   "keywords": [
     "cmsis"
