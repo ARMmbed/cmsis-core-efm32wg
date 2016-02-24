@@ -12,6 +12,5 @@ extern uint32_t __start_vector_table__;
 
 #include "cmsis-core/em_device.h"
 #include "cmsis-core/cmsis_nvic.h"
-#include "em_mbed.h"
 
 #endif
